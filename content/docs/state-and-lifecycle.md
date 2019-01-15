@@ -14,7 +14,7 @@ next: handling-events.html
 
 到目前为止我们只学习了一种方法来更新UI。
 
-我们调用 `ReactDOM.render()` 方法来改变输出：
+我们调用 `css` 方法来改变输出：
 
 ```js{8-11}
 function tick() {
